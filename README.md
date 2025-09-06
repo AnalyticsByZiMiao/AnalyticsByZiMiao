@@ -33,7 +33,7 @@
 
 ## 📫 如何联系我
 
-- **邮箱**: your-email@example.com [[点击发送]](mailto:your-email@example.com)
+- **邮箱**: 1593549899@qq.com [[点击发送]](mailto:your-email@example.com)
 - **领英**: [[我的LinkedIn主页]](https://www.linkedin.com/in/your-profile/)
 
 **期待与您交流！**
