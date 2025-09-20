@@ -34,6 +34,5 @@
 ## 📫 如何联系我
 
 - **邮箱**: 2022150033@email.szu.edu.cn [[点击发送]](mailto:2022150033@email.szu.edu.cn)
-- **领英**: [[我的LinkedIn主页]](https://www.linkedin.com/in/your-profile/)
 
 **期待与您交流！**
